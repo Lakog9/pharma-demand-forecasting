@@ -1,0 +1,10 @@
+# Data files
+data/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
