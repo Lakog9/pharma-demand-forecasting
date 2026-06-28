@@ -10,7 +10,7 @@
 | Rolling Mean | 9.73 | 14.39 | 37.3% |
 | Prophet | 8.59 | 10.32 | 46.2% |
 | XGBoost | 7.96 | 10.01 | 40.0% |
-| **LightGBM** ⭐ | **7.30** | **9.73** | **37.0%** |
+| **LightGBM**  | **7.30** | **9.73** | **37.0%** |
 
 **LightGBM achieves 23.6% lower MAE vs naive baseline** — translating to ~6,700 unit-days of improved forecast accuracy per year across all drug categories.
 
